@@ -1,8 +1,7 @@
 # =============================================================================
 # Insurance Survival Analysis: Policyholder Lapse and Mortality
 # =============================================================================
-# Author: [Your Name]
-# Date: [Current Date]
+# Author: Caden Arai
 # Description: Comprehensive survival analysis of insurance policy lapses
 #              and mortality using Kaplan-Meier, Cox PH, and parametric models
 # =============================================================================
